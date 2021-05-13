@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Vue.js COVID Tracker Developed by Charitha Dhananjaya"/>
+    <HelloWorld msg="Welcome to Vue.js COVID Tracker Developed by *Charitha Dhananjaya*"/>
   </div>
 </template>
 
